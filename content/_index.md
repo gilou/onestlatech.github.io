@@ -103,6 +103,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Arnaud Bailly, Développeur
 * [Dylan Ballandras](https://www.dylan-ballandras.fr/), développeur, salarié
 * [Alexandre Balmes](https://alexandre.balmes.co), Consultant technique, Co-fondateur [Vanoix](https://vanoix.com)
+* Thierry Banel
 * [Quentin Barloy](https://twitter.com/nitneuq_y), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Timothée Barray](https://twitter.com/timbarray)
 * [Benjamin Bayart](https://edgard.fdn.fr/cv.html)
@@ -295,15 +296,13 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Rachid Hammaoui](https://twitter.com/makmaoui), Lead Dev
 * [Yvan Corsiglia] (https://twitter.com/Striwx) Créateur de Jeux-Vidéo
 * [Jonathan Lefèvre](https://jonathanlefevre.com), Entrepreneur
-* [Stéphane Erard] (https://twitter.com/sterard_), Développeur
 * [Clément Delmas](https://www.clementdelmas.fr/)
 * [Luc Bourdot](https://mastodon.etalab.gouv.fr/@luc) Pole Logiciels Libres & EOLE
 * [Félix Girault](https://fglt.fr), développeur
 * [Francois Marot](https://twitter.com/FrancoisMarot), développeur, Architecte, Human Being
 * [Théo Fidry](https://twitter.com/tfidry), développeur
 * [Benoit Tigeot](https://www.twitter.com/benoit_tgt), développeur
-* [Johan Baltié](https://www.linkedin.com/in/johan-balti%C3%A9-b913bb2/), développeur
-* [Michaël Lebeau](https://epistol.fr), développeur web
+* [Gilles Pietri](https://gilouweb.com) Admin sys et gérant de [Wolface.IT](https://www.wolface.fr)
 
 ### Organisations
 
